@@ -1,1 +1,1 @@
-//czy teraz jest dobrze ? mzoe tu ?
+//main things

@@ -1,1 +1,1 @@
-// siema script 123
+// main things 
