@@ -1,1 +1,1 @@
-//czy teraz jest dobrze ?
+//czy teraz jest dobrze ? siema ?
