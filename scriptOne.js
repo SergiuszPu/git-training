@@ -1,1 +1,1 @@
-//czy teraz jest dobrze ? mzoe tu ?
+//test one commit
